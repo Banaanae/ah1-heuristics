@@ -1,0 +1,19 @@
+{
+  "name": "ah1-heuristics",
+  "version": "1.0.0",
+  "description": "RegExs to only match AutoHotkey v1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Banaanae/ah1-heuristics.git"
+  },
+  "author": "Banaanae",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Banaanae/ah1-heuristics/issues"
+  },
+  "homepage": "https://github.com/Banaanae/ah1-heuristics#readme"
+}
